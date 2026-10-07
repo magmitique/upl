@@ -1,0 +1,9 @@
+# Tests
+tests/*
+__pycache__
+
+# Env
+.venv
+.conda
+.env
+
